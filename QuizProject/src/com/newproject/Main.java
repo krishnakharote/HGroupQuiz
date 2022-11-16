@@ -47,5 +47,5 @@ public class Main {
 		}else {
 			System.out.println("Invalid option:");
 		}	
-	}System.out.println("changes done");
+	}
 }
